@@ -1,10 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
-<epm xmlns='http://eprints.org/ep2/data/2.0' id='https://drn.eprints-hosting.org/id/epm/epm_test'>
+<epm id='https://drn.eprints-hosting.org/id/epm/epm_test' xmlns='http://eprints.org/ep2/data/2.0'>
   <epmid>epm_test</epmid>
   <uri>https://drn.eprints-hosting.org/id/epm/epm_test</uri>
   <documents>
     <document>
       <files>
+        <file>
+          <filename>epm/epm_test/bin/epm_test</filename>
+          <mime_type>text/x-perl</mime_type>
+          <hash>fa1e933c948b383eb0fb6c4c1dd6c87b</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>49</filesize>
+        </file>
         <file>
           <filename>epm/epm_test/cfg/cfg.d/z_epm_test.pl</filename>
           <mime_type>text/plain</mime_type>
@@ -18,6 +25,13 @@
           <hash>28b802e82eab370f07130111ebda5278</hash>
           <hash_type>MD5</hash_type>
           <filesize>27</filesize>
+        </file>
+        <file>
+          <filename>epm/epm_test/cgi/epm_test</filename>
+          <mime_type>text/html</mime_type>
+          <hash>dca6f1d9d5ebbb755013bb1f44bd1028</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>163</filesize>
         </file>
         <file>
           <filename>plugins/EPrints/Plugin/Export/EPMTest.pm</filename>
@@ -61,7 +75,7 @@
       <content>coverimage</content>
     </document>
   </documents>
-  <version>1.0.1</version>
+  <version>1.0.2</version>
   <creators>
     <item>
       <name>

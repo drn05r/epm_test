@@ -6,6 +6,15 @@
     <document>
       <files>
         <file>
+          <filename>epm/epm_test/bin/epm_test</filename>
+          <mime_type>text/x-perl</mime_type>
+          <hash>fa1e933c948b383eb0fb6c4c1dd6c87b</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>49</filesize>
+          <data encoding='base64'>IyEvdXNyL2Jpbi9wZXJsIAoKcHJpbnQgIlRoaXMgaXMgYW4gRVBNIHRlc3RcbiI7Cg==
+</data>
+        </file>
+        <file>
           <filename>epm/epm_test/cfg/cfg.d/z_epm_test.pl</filename>
           <mime_type>text/plain</mime_type>
           <hash>062ded6f07912bee6d119ce5137e1c17</hash>
@@ -22,6 +31,17 @@ IDA7Cg==
           <hash_type>MD5</hash_type>
           <filesize>27</filesize>
           <data encoding='base64'>IyBUaGlzIGlzIGp1c3QgYW4gZXBtIHRlc3QK
+</data>
+        </file>
+        <file>
+          <filename>epm/epm_test/cgi/epm_test</filename>
+          <mime_type>text/html</mime_type>
+          <hash>dca6f1d9d5ebbb755013bb1f44bd1028</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>163</filesize>
+          <data encoding='base64'>dXNlIEVQcmludHM7CnVzZSBzdHJpY3Q7CgpwcmludCA8PEVPVDsKPGh0bWw+CjxoZWFkPgo8dGl0
+bGU+RVBNIFRlc3Q8L3RpdGxlPgo8L2hlYWQ+Cjxib2R5Pgo8aDE+RVBNIFRlc3Q8L2gxPgo8cD5U
+aGlzIGlzIGEgVGVzdCBvZiBhbiBFUE0uPC9wPgo8L2JvZHk+CjwvaHRtbD4KRU9UCg==
 </data>
         </file>
         <file>
@@ -808,7 +828,7 @@ vJk3egAAAABJRU5ErkJggg==
       <content>coverimage</content>
     </document>
   </documents>
-  <version>1.0.1</version>
+  <version>1.0.2</version>
   <creators>
     <item>
       <name>

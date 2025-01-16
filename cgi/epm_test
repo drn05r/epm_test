@@ -1,0 +1,14 @@
+use EPrints;
+use strict;
+
+print <<EOT;
+<html>
+<head>
+<title>EPM Test</title>
+</head>
+<body>
+<h1>EPM Test</h1>
+<p>This is a Test of an EPM.</p>
+</body>
+</html>
+EOT
