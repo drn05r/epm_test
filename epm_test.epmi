@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<epm id='https://drn.eprints-hosting.org/id/epm/epm_test' xmlns='http://eprints.org/ep2/data/2.0'>
+<epm xmlns='http://eprints.org/ep2/data/2.0' id='https://drn.eprints-hosting.org/id/epm/epm_test'>
   <epmid>epm_test</epmid>
   <uri>https://drn.eprints-hosting.org/id/epm/epm_test</uri>
   <documents>
@@ -22,9 +22,9 @@
         <file>
           <filename>epm/epm_test/cfg/cfg.d/zz_epm_test.pl</filename>
           <mime_type>text/plain</mime_type>
-          <hash>28b802e82eab370f07130111ebda5278</hash>
+          <hash>f23b1ce284a7a072d5a943ab73410aae</hash>
           <hash_type>MD5</hash_type>
-          <filesize>27</filesize>
+          <filesize>89</filesize>
         </file>
         <file>
           <filename>epm/epm_test/cgi/epm_test</filename>
@@ -39,6 +39,13 @@
           <hash>96dd2c985cf8e7c6936a7b4c991711b7</hash>
           <hash_type>MD5</hash_type>
           <filesize>470</filesize>
+        </file>
+        <file>
+          <filename>plugins/EPrints/Plugin/Export/EPMTest2.pm</filename>
+          <mime_type>inode/symlink</mime_type>
+          <hash>26fde148f64968d1f2d471c808bfb61f</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>475</filesize>
         </file>
         <file>
           <filename>static/images/epm/epm_test.png</filename>
@@ -75,7 +82,7 @@
       <content>coverimage</content>
     </document>
   </documents>
-  <version>1.0.2</version>
+  <version>1.0.3</version>
   <creators>
     <item>
       <name>
