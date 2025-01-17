@@ -27,11 +27,12 @@ IDA7Cg==
         <file>
           <filename>epm/epm_test/cfg/cfg.d/zz_epm_test.pl</filename>
           <mime_type>text/plain</mime_type>
-          <hash>f23b1ce284a7a072d5a943ab73410aae</hash>
+          <hash>f5ef9f47cd4c1c54f22c1116d146b1c7</hash>
           <hash_type>MD5</hash_type>
-          <filesize>89</filesize>
+          <filesize>119</filesize>
           <data encoding='base64'>IyBUaGlzIGlzIGp1c3QgYW4gZXBtIHRlc3QKJGMtPntwbHVnaW5zfS0+eyJFeHBvcnQ6OkVQTVRl
-c3QyIn0tPntwYXJhbXN9LT57ZGlzYWJsZX0gPSAwOwo=
+c3QyIn0tPntwYXJhbXN9LT57ZGlzYWJsZX0gPSAwOwoKdXNlIEVQcmludHM6OkVQTVRlc3Q6OlV0
+aWxzOwo=
 </data>
         </file>
         <file>
@@ -858,7 +859,7 @@ vJk3egAAAABJRU5ErkJggg==
       <content>coverimage</content>
     </document>
   </documents>
-  <version>1.0.4</version>
+  <version>1.0.5</version>
   <creators>
     <item>
       <name>
