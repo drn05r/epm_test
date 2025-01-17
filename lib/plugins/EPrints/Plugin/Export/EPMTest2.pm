@@ -5,6 +5,7 @@ use EPrints::Plugin::Export::TextFile;
 @ISA = ( "EPrints::Plugin::Export::TextFile" );
 
 use strict;
+use EPrints::EPMTest::Utils;
 
 sub new
 {
@@ -25,6 +26,8 @@ sub new
 sub output_dataobj
 {
 	my( $plugin, $dataobj ) = @_;
+
+	EPrints::EPMTest::Utils::test( "EPM Test 2" );
 
 	return "This is an EPM test 2\n";
 }

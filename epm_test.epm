@@ -46,6 +46,17 @@ aGlzIGlzIGEgVGVzdCBvZiBhbiBFUE0uPC9wPgo8L2JvZHk+CjwvaHRtbD4KRU9UCg==
 </data>
         </file>
         <file>
+          <filename>epm/epm_test/lib/plugins/EPrints/EPMTest/Utils.pm</filename>
+          <mime_type>text/plain</mime_type>
+          <hash>d8b5032040e3a5a09d84c54f69bf5b6f</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>121</filesize>
+          <data encoding='base64'>cGFja2FnZSBFUHJpbnRzOjpFUE1UZXN0OjpVdGlsczsKCnVzZSBzdHJpY3Q7CgpzdWIgdGVzdCB7
+CgoJbXkoICR0ZXN0ICkgPSBAXzsKCglwcmludCBTVERFUlIgIlV0aWxzIGZvciAkdGVzdFxuIjsK
+fQoKCjE7Cg==
+</data>
+        </file>
+        <file>
           <filename>plugins/EPrints/Plugin/Export/EPMTest.pm</filename>
           <mime_type>inode/symlink</mime_type>
           <hash>96dd2c985cf8e7c6936a7b4c991711b7</hash>
@@ -65,18 +76,19 @@ UE0gdGVzdFxuIjsKfQo=
         <file>
           <filename>plugins/EPrints/Plugin/Export/EPMTest2.pm</filename>
           <mime_type>inode/symlink</mime_type>
-          <hash>26fde148f64968d1f2d471c808bfb61f</hash>
+          <hash>5a2c884ce2d1df5350762cc65905af03</hash>
           <hash_type>MD5</hash_type>
-          <filesize>475</filesize>
+          <filesize>553</filesize>
           <data encoding='base64'>cGFja2FnZSBFUHJpbnRzOjpQbHVnaW46OkV4cG9ydDo6RVBNVGVzdDI7Cgp1c2UgRVByaW50czo6
 UGx1Z2luOjpFeHBvcnQ6OlRleHRGaWxlOwoKQElTQSA9ICggIkVQcmludHM6OlBsdWdpbjo6RXhw
-b3J0OjpUZXh0RmlsZSIgKTsKCnVzZSBzdHJpY3Q7CgpzdWIgbmV3CnsKCW15KCAkY2xhc3MsICVv
-cHRzICkgPSBAXzsKCglteSAkc2VsZiA9ICRjbGFzcy0+U1VQRVI6Om5ldyggJW9wdHMgKTsKCgkk
-c2VsZi0+e25hbWV9ID0gIkVQTSBUZXN0IDIiOwoJJHNlbGYtPnthY2NlcHR9ID0gWyAnZGF0YW9i
-ai9lcHJpbnQnLCAnbGlzdC9lcHJpbnQnIF07Cgkkc2VsZi0+e3Zpc2libGV9ID0gImFsbCI7CgoJ
-JHNlbGYtPntkaXNhYmxlfSA9IDE7CgkKCXJldHVybiAkc2VsZjsKfQoKCnN1YiBvdXRwdXRfZGF0
-YW9iagp7CglteSggJHBsdWdpbiwgJGRhdGFvYmogKSA9IEBfOwoKCXJldHVybiAiVGhpcyBpcyBh
-biBFUE0gdGVzdCAyXG4iOwp9Cg==
+b3J0OjpUZXh0RmlsZSIgKTsKCnVzZSBzdHJpY3Q7CnVzZSBFUHJpbnRzOjpFUE1UZXN0OjpVdGls
+czsKCnN1YiBuZXcKewoJbXkoICRjbGFzcywgJW9wdHMgKSA9IEBfOwoKCW15ICRzZWxmID0gJGNs
+YXNzLT5TVVBFUjo6bmV3KCAlb3B0cyApOwoKCSRzZWxmLT57bmFtZX0gPSAiRVBNIFRlc3QgMiI7
+Cgkkc2VsZi0+e2FjY2VwdH0gPSBbICdkYXRhb2JqL2VwcmludCcsICdsaXN0L2VwcmludCcgXTsK
+CSRzZWxmLT57dmlzaWJsZX0gPSAiYWxsIjsKCgkkc2VsZi0+e2Rpc2FibGV9ID0gMTsKCQoJcmV0
+dXJuICRzZWxmOwp9CgoKc3ViIG91dHB1dF9kYXRhb2JqCnsKCW15KCAkcGx1Z2luLCAkZGF0YW9i
+aiApID0gQF87CgoJRVByaW50czo6RVBNVGVzdDo6VXRpbHM6OnRlc3QoICJFUE0gVGVzdCAyIiAp
+OwoKCXJldHVybiAiVGhpcyBpcyBhbiBFUE0gdGVzdCAyXG4iOwp9Cg==
 </data>
         </file>
         <file>
@@ -846,7 +858,7 @@ vJk3egAAAABJRU5ErkJggg==
       <content>coverimage</content>
     </document>
   </documents>
-  <version>1.0.3</version>
+  <version>1.0.4</version>
   <creators>
     <item>
       <name>
